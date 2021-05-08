@@ -1,7 +1,7 @@
 # Contrastive Learning of Video Representations with Temporally Adversarial Examples
 Pytroch implementation of our paper "Contrastive Learning of Video Representations with Temporally Adversarial Examples", a journal extension of our preliminary work presented in [CVPR 2021](https://arxiv.org/abs/2103.05905). Extensive additional ananlysis are presented in this version.
 
-The Pytorch implementation of our previous CVPR 2021 work is available at: https://github.com/tinapanpt/VideoMoCo.
+The Pytorch implementation of our previous CVPR 2021 work is available at: https://github.com/tinapan-pt/VideoMoCo.
 
 # Overview
 Framework of the proposed approach.
